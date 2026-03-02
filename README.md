@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Software developer</h2>
+  <h2> Hi 👋 Let's Great Cording!</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
